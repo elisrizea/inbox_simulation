@@ -19,7 +19,7 @@
     No mobule requires
     
 # instalation:
-    Copy :   
+    Copy files:   
             my_email.py
             my_utilities.py
             demo_emails.txt
