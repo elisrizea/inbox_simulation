@@ -27,7 +27,9 @@
     
     
 # Running:
+    
     my_email.py
+    
     To get the 5 demo emails you need to have demo_emails.txt
     If demo_emails.txt is accidently rewrite modify name of 
     demo_emails_backup_copy.txt to demo_emails.txt
