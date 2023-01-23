@@ -16,7 +16,7 @@
     Enter your choice: 
 
 # Require:
-    No mobule requires
+    No mobule require
     
 # instalation:
     Copy files:   
